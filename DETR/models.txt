@@ -1,0 +1,14 @@
+--- BASELINE MODELS ---
+Standard DETR (ResNet-50): facebook/detr-resnet-50
+Standard DETR (ResNet-101): facebook/detr-resnet-101
+
+--- REAL-TIME MODELS ---
+RT-DETR (ResNet-50): PekingU/rtdetr_r50vd
+RT-DETR (ResNet-101): PekingU/rtdetr_r101vd
+
+--- OTHER DETR MODELS ---
+Deformable DETR: SenseTime/deformable-detr
+
+--- PURE VISION TRANSFORMERS ---
+YOLOS Small: hustvl/yolos-small
+YOLOS Tiny: hustvl/yolos-tiny
